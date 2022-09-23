@@ -27,3 +27,7 @@ header {
 p {
     line-height: 40px;
 }
+
+.ratingPictures{
+    width: 100px;
+}
